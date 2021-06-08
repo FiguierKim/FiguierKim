@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요 김휘겸입니다.👋
 
 <!--
 **FiguierKim/FiguierKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
