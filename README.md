@@ -1,4 +1,4 @@
-### 안녕하세요 김휘겸입니다.👋
+### Hi it's HwiGyeom Kim.👋
 
 [![HwiGyeom's GitHub stats](https://github-readme-stats.vercel.app/api?username=FiguierKim)](https://github.com/anuraghazra/github-readme-stats)
 
