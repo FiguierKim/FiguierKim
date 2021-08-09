@@ -2,6 +2,8 @@
 
 [![HwiGyeom's GitHub stats](https://github-readme-stats.vercel.app/api?username=FiguierKim)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hueguem)](https://solved.ac/hueguem/)
+
 
 <!--
 **FiguierKim/FiguierKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
